@@ -57,4 +57,3 @@
 ##### 成果展示：
 
 可以是自己写的一篇博客文章的链接，或者小项目的截图
-![]https://github.com/Homie6324/NEUQ-ACMClub2020-Jishu-weekly/blob/main/%E7%8E%8B%E5%A5%95%E9%9C%84/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-01-12%20123636.jpg
